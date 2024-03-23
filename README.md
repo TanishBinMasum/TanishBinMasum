@@ -1,7 +1,9 @@
- `name = [Tanish, TanishBinMasum]                                                                     
+ `name = [Tanish, TanishBinMasum]
+ ‌
  firstLanguage = "Python"
  secondaryLanguage = "HTML5"
  thirdLanguage = "CSS"
+ ‌
  intro = f"I'm a self taught developer who learns {firstLanguage}, {secondaryLanguage} and {thirdLanguage}"`
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
