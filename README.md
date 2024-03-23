@@ -8,6 +8,8 @@ thirdLanguage = "CSS"
 intro = "I'm a self taught developer who learns coding so i can one day become a game developer :]"
 interests = ["Programming", "Reading", "C A T S"]
 print(intro)
+
+I'm a self taught developer who learns coding so i can one day become a game developer :]
 ```
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
