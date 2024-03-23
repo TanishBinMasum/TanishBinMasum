@@ -50,10 +50,6 @@
       height="40"
     />
   </a>
-
-
-
-    />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img
