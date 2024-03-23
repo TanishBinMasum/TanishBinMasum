@@ -1,7 +1,4 @@
-# - 👋 Hi, I’m @TanishBinMasum
-- 👀 I’m interested in ... Python and JavaScript
-- 🌱 I’m currently learning ... Python
-- 📫 How to reach me ... tanishbinmasum@gmail.com
+`hello
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
