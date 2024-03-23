@@ -1,11 +1,13 @@
  ```python
-name = [Tanish, TanishBinMasum]
+name = ["Tanish", "TanishBinMasum"]
  ‌‌
- firstLanguage = "Python"
- secondaryLanguage = "HTML5"
- thirdLanguage = "CSS"
+firstLanguage = "Python"
+secondaryLanguage = "HTML5"
+thirdLanguage = "CSS"
  ‌
- intro = f"I'm a self taught developer who learns {firstLanguage}, {secondaryLanguage} and {thirdLanguage}"`
+intro = "I'm a self taught developer who learns coding so i can one day become a game developer :]"
+interests = ["Programming", "Reading", "C A T S"]
+print(intro)
 ```
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
