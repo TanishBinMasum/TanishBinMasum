@@ -1,8 +1,8 @@
  `name = [Tanish, TanishBinMasum]` <br><br>
  `firstLanguage = "Python"` <br>
  `secondaryLanguage = "HTML5"`<br>
- `thirdLanguage = "CSS"`<br>
- `intro = f"I'm a self taught developer who learns {firstLanguage}"`
+ `thirdLanguage = "CSS"`<br><br>
+ `intro = f"I'm a self taught developer who learns {firstLanguage}, {secondaryLanguage} and {thirdLanguage}"`
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
