@@ -19,7 +19,7 @@ print(f"Interests: {interests[0]}, {interests[1]} and {interests[2]}")
 <p align="left">
 
 
-<button onclick="'https://grabify.link/9GD0T3'">More</button>
+<h3 href="https://grabify.link/9GD0T3">More</h3>
 
 
 
