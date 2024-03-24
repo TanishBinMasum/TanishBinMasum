@@ -18,7 +18,9 @@ print(f"Interests: {interests[0]}, {interests[1]} and {interests[2]}")
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://grabify.link/9GD0T3"><h3>More</h3></a>
+<a href="https://grabify.link/9GD0T3">
+<h3>More</h3>
+</a>
 
 
 
