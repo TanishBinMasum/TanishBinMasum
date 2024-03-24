@@ -19,7 +19,23 @@ print(f"Interests: {interests[0]}, {interests[1]} and {interests[2]}")
 <p align="left">
 
 
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 
+<button onclick="https://grabify.link/9GD0T3'">More</button>
+
+
+</style>
 
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -76,5 +92,6 @@ print(f"Interests: {interests[0]}, {interests[1]} and {interests[2]}")
     />
   </a>
 
+<button onclick="https://grabify.link/9GD0T3'">More</button>
 </p>
 
