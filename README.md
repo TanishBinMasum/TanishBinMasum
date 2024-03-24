@@ -11,7 +11,7 @@ print(intro)
 print(f"Interests: {interests[0]}, {interests[1]} and {interests[2]}")
 
 ```
-## a self taught developer who learns coding so i can one day become a game developer :]
+# a self taught developer who learns coding so i can one day become a game developer :]
 ### Interests: Programming, Reading and C A T S
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
