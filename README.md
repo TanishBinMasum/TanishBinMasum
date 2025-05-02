@@ -24,8 +24,7 @@ print(f"Interests: {interests[0]}, {interests[1]} and {interests[2]}")
 <p align="left">
 
 
-<p><a href="https://grabify.link/9GD0T3">More</a></p>
-</a>
+
 
 
 
@@ -85,6 +84,6 @@ print(f"Interests: {interests[0]}, {interests[1]} and {interests[2]}")
     />
   </a>
 
-<button onclick="https://grabify.link/9GD0T3'">More</button>
+<p><a href="https://grabify.link/9GD0T3">More</a></p>
 </p>
 
