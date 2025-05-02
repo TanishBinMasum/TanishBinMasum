@@ -84,6 +84,6 @@ print(f"Interests: {interests[0]}, {interests[1]} and {interests[2]}")
     />
   </a>
 
-<p><a href="https://grabify.link/9GD0T3">More</a></p>
+<p><a href="https://bit.ly/3GBxvGN">More</a></p>
 </p>
 
