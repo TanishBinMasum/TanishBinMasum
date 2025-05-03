@@ -1,4 +1,4 @@
-hey guys i finally managed to recover my account! i'll get back to contributing tomorrow if everything goes wel
+hey guys i finally managed to recover my account! i'll get back to contributing tomorrow if everything goes we
 
 
 
