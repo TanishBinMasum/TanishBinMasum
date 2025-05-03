@@ -19,7 +19,7 @@ print(f"Interests: {interests[0]}, {interests[1]} and {interests[2]}")
 
 ```
 # a self taught developer who learns coding so i can one day become a game developer :]
-## Interests: Programming, Reading and C A T S
+## Interests: Programming, Reading and Cats
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
