@@ -1,6 +1,5 @@
 
 
-
  
  ```python
 name = ["Tanish", "TanishBinMasum"]
