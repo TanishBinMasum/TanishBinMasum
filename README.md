@@ -1,6 +1,6 @@
  
  ```python
-name = ["Tanish", "TanishBinMasum"]
+names = ["Tanish", "TanishBinMasum"]
  ‌‌
 firstLanguage = "Python"
 secondaryLanguage = "HTML5"
